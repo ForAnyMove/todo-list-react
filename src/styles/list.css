@@ -1,0 +1,12 @@
+.todo-list{
+    background: #211f29;
+    padding: 10px;
+    border-bottom: 1px polid #FFFFFF;
+    
+}
+li{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #FFFFFF;
+}

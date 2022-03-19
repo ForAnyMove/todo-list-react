@@ -1,0 +1,12 @@
+.footer{
+    display: flex;
+    justify-content: space-between;
+    background: #211f29;
+    padding: 10px;
+    color: #FFFFFF;
+    border-top: 1px solid #FFFFFF;
+}
+.filter{
+    display: flex;
+    list-style-type: none;
+}   
